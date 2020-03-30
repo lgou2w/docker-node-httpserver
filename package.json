@@ -1,0 +1,15 @@
+{
+  "name": "docker-node-httpserver",
+  "version": "1.0.0",
+  "description": "A simple node http server docker image (learning)",
+  "repository": "https://github.com/lgou2w/docker-node-httpserver.git",
+  "author": "lgou2w <lgou2w@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
